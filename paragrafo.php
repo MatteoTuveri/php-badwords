@@ -22,24 +22,24 @@
     <div class="mb-2">
         <div class="mb-1">
     <?php
-    echo($paragrafo)
+    echo($paragrafo);
     ?>
         </div>
         <div class="mb-1">
     <?php
-    echo($lunghezza)
+    echo($lunghezza);
     ?>
         </div>
     </div>
     <div class="mb-2">
         <div class="mb-1">
     <?php
-    echo($paragrafoCorretto)
+    echo($paragrafoCorretto);
     ?>
         </div>
         <div class="mb-1">
     <?php
-    echo($lunghezzaCorretta)
+    echo($lunghezzaCorretta);
     ?>
         </div>
     </div>
